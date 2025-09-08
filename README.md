@@ -83,4 +83,4 @@ MIT License
 ---
 
 ## Author
-Created by [Your Name]
+Created by Amartya Kumar
